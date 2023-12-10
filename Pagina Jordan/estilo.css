@@ -1,0 +1,77 @@
+ <style>
+        /* Estilos del CSS (se mantienen sin cambios) */
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #8B0000; /* Rojo oscuro */
+            margin: 0;
+            padding: 0;
+            color: #000; /* Negro */
+        }
+
+        header {
+            background-color: #000; /* Negro */
+            padding: 10px;
+            text-align: center;
+        }
+
+        header h1 {
+            color: white; /* Blanco */
+        }
+
+        nav {
+            background-color: #000; /* Negro */
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            margin: 0 10px;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            color: #000; /* Negro */
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #000; /* Negro */
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #ddd; /* Gris claro */
+        }
+
+        tr:nth-child(odd) {
+            background-color: #ccc; /* Gris más oscuro */
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #000; /* Negro */
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+    </style>
